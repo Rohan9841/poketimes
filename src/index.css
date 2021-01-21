@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home .post img{
+  position: absolute;
+  left: -10%;
+  opacity: 0.6;
+  width: 25%;
+}
+
+.home .post{
+  overflow: hidden;
+  padding-left: 150px;
+}
